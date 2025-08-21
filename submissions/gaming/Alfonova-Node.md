@@ -1,7 +1,7 @@
 # vApp Submission: GameFi Quest
 
 ## Verification
-```
+```yaml
 github_username: "Alfonova-Node"
 discord_id: "826903150316748891"
 timestamp: "2025-08-22"
